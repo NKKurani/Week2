@@ -1,2 +1,2 @@
-# Week2
+# Week2 Github
 Getting started with Github
